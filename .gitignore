@@ -1,0 +1,17 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+target
+.idea
+stacktrace.log
+*.swp
+*.log
+.idea
+web-app/
+*.ipr
+*.iws
+*pp/fonts/pdfFonts.idea
+.asscache
+.slcache
+.slcache/
